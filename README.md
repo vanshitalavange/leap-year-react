@@ -1,2 +1,2 @@
 # leap-year-react
-Created with CodeSandbox
+This is an app made in react which checks if a given year is leap or not 😎🗓✔
